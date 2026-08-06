@@ -173,31 +173,6 @@ I'm a **React / React Native Developer** who enjoys building, creating, and deve
 
 ---
 
-# 🎮 Game Development
-
-Game development is one of my favorite hobbies — I enjoy experimenting with game mechanics, systems, UI and gameplay.
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=unity,unreal,godot&perline=8"/>
-</p>
-
-### 🕹️ Game Engines & Tools
-
-`Unity` • `Unreal Engine` • `Godot` • `GameMaker`
-
-### 🎯 Interested In
-
-🎮 Gameplay Systems  
-🧠 Game Logic  
-🗺️ Level Design  
-🎨 Game UI  
-⚔️ Combat Systems  
-🤖 AI & Pathfinding  
-🎥 Camera Systems  
-🌐 Multiplayer Systems
-
----
-
 # 🧩 Other Technologies & Concepts
 
 <div align="center">
