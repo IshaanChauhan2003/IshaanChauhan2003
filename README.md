@@ -226,7 +226,6 @@ Game development is one of my favorite hobbies — I enjoy experimenting with ga
 <img src="https://skillicons.dev/icons?i=docker,aws,postgres,redis,python,java&perline=6"/>
 </p>
 
-```text
 ☁️ Cloud Architecture
 🐳 Docker & Containerization
 🏗️ Scalable Backend Architecture
@@ -235,3 +234,38 @@ Game development is one of my favorite hobbies — I enjoy experimenting with ga
 ⚡ Performance Optimization
 🔐 Application Security
 📊 Distributed Systems
+
+
+<!-- ========================================================= -->
+<!--                    HOBBIES & INTERESTS                    -->
+<!-- ========================================================= -->
+
+# 🎮 Hobbies & Interests
+
+<div align="center">
+
+### 🕹️ Game Development
+
+**Creating worlds • Designing mechanics • Building experiences**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,godot&perline=3"/>
+
+<br/><br/>
+
+`Unity` &nbsp; `Unreal Engine` &nbsp; `GameMaker` &nbsp; `Godot`
+
+<br/><br/>
+
+🎮 Gameplay &nbsp; • &nbsp;
+🧠 Game Logic &nbsp; • &nbsp;
+🗺️ Level Design &nbsp; • &nbsp;
+🎨 Game UI &nbsp; • &nbsp;
+🤖 Game AI &nbsp; • &nbsp;
+🌐 Multiplayer
+
+</div>
+
+> **I enjoy creating games as a hobby — experimenting with gameplay ideas, mechanics,
+> interactive systems and turning concepts into playable experiences.**
